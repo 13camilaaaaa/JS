@@ -1,0 +1,35 @@
+[
+    {
+        "nombre": [
+            "Juan",
+            "Camila",
+            "Andres",
+            "Berlin"
+        ],
+        "edad": 30,
+        "ciudad": "Madrid",
+        "hobbies": [
+            "fútbol",
+            "lectura",
+            "viajes"
+        ]
+    },
+    {
+        "name": "Juan Pérez",
+        "id": 1,
+        "age": 30,
+        "city": "Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Ana Gómez",
+        "age": 25,
+        "city": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Carlos Ruiz",
+        "age": 35,
+        "city": "Valencia"
+    }
+]
